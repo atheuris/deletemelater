@@ -1,0 +1,25 @@
+{
+  "name": "deletemelater",
+  "version": "1.0.0",
+  "description": "penis",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atheuris/deletemelater.git"
+  },
+  "keywords": [
+    "plas"
+  ],
+  "author": "karel de grote",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atheuris/deletemelater/issues"
+  },
+  "homepage": "https://github.com/atheuris/deletemelater#readme"
+}
